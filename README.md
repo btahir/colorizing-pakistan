@@ -6,6 +6,8 @@ The jupyter notebook outlines all the steps. I use the fastai library and the Oc
 
 Some results:
 
+![alt text](https://github.com/btahir/colorizing-pakistan/blob/master/1.png)
+
 ![alt text](https://github.com/btahir/colorizing-pakistan/blob/master/3.png)
 
 ![alt text](https://github.com/btahir/colorizing-pakistan/blob/master/4.png)
@@ -14,4 +16,4 @@ Some results:
 
 ## Notes for improvement
 
-Since the models were trained on a Pets dataset, my suspicion is much better performance can be achieved using more generalized datasets such as the Imagenet dataset. One shortcoming we can see using the current dataset is how in the first picture the road is covered in a green tinge and this is probably because a lot of the photos in the Pets dataset is of animals on grass.
+Since the models were trained on a Pets dataset, my suspicion is much better performance can be achieved using more generalized datasets such as the Imagenet dataset. One shortcoming we can see using the current dataset is how in some of the photos the road is covered in a green tinge. This is probably because a lot of the photos in the Pets dataset are of animals on grass.
