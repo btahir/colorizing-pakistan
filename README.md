@@ -5,3 +5,9 @@ In this project, I use perceptual loss in neural networks to colorize black and 
 The jupyter notebook outlines all the steps. I use the fastai library and the Ocford Pets Dataset for training the models. 
 
 Some results:
+
+![alt text](https://github.com/btahir/colorizing-pakistan/blob/master/3.png)
+
+![alt text](https://github.com/btahir/colorizing-pakistan/blob/master/4.png)
+
+![alt text](https://github.com/btahir/colorizing-pakistan/blob/master/7.png)
