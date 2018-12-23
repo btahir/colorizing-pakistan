@@ -11,3 +11,7 @@ Some results:
 ![alt text](https://github.com/btahir/colorizing-pakistan/blob/master/4.png)
 
 ![alt text](https://github.com/btahir/colorizing-pakistan/blob/master/7.png)
+
+## Notes for improvement
+
+Since the models were trained on a Pets dataset, my suspicion is much better performance can be achieved using more generalized datasets such as the Imagenet dataset. One shortcoming we can see using the current dataset is how in the first picture the road is covered in a green tinge and this is probably because a lot of the photos in the Pets dataset is of animals on grass.
